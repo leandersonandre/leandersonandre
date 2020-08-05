@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leanderson-andre/)](https://www.linkedin.com/in/leanderson-andre/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malone.leanderson.andre@gmail.com)](mailto:malone.leanderson.andre@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@leanderson.andre)](https://medium.com/@leanderson.andre) 
+[![Visits Badge](https://badges.pufler.dev/visits/leandersonandre/git-badges)](https://badges.pufler.dev)
 
 
 ### Hi there 👋
